@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!-- decleration-->
+
+<!--<!DOCTYPE student[
+]>-->
+
+<student>
+    <name>Krishna Pathak</name>
+    <id>4703</id>
+    <address>Dhamilikuwa Lamjung</address>
+    <phone>9818821027</phone>
+</student>
